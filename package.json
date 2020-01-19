@@ -4,6 +4,8 @@
   "description": "🎂 Real Time Notification 🚀 with Nodejs and Web 🌍 Push 🎁",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "author": "Yoni Calsin <helloyonicb@gmail.com>",
   "license": "MIT",
