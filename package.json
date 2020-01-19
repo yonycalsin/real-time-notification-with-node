@@ -1,0 +1,15 @@
+{
+  "name": "real-time-notification",
+  "version": "1.0.0",
+  "description": "🎂 Real Time Notification 🚀 with Nodejs and Web 🌍 Push 🎁",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoni Calsin <helloyonicb@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yonicb/real-time-notification-with-node"
+  }
+}
