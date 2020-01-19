@@ -11,5 +11,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/yonicb/real-time-notification-with-node"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "web-push": "^3.4.3"
   }
 }
